@@ -1,0 +1,9 @@
+this is for scripting task replacement
+sample line 2
+sample line 3
+sample line 4
+sample line 5
+welcome learning something
+no match here
+welcome to the site, please learning attention
+just give it, this line no replacement will happen
